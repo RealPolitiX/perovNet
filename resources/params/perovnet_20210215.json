@@ -1,0 +1,9 @@
+{
+    "len_embed_feat": 61,
+    "num_channel_irrep": 32,
+    "num_e3nn_layer": 2,
+    "max_radius": 5,
+    "num_basis": 10,
+    "adamw_lr": 0.005,
+    "adamw_wd": 0.05
+}
